@@ -48,7 +48,7 @@ $ python3 mine.py
 
 # Screenshot
 
-![Image description](https://github.com/.png)
+![Image description](https://github.com/CharlesTheGreat77/Mine/blob/main/D42D5809-913E-4EE3-BEF2-696A1078EA68.jpeg)
 
 # Output
 Results are saved as targets.txt
