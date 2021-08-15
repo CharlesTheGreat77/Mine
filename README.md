@@ -2,16 +2,32 @@
 Just a Fun script to scan for vulnerable devices
 
 ```
-               .--.
-              /.-. '----------.
-              \'-' .--"--""-"-'
-          MINE '--'
+      .--.
+     /.-. '----------.
+     \'-' .--"--""-"-'
+MINE  '--'
+
+// Searches
+SSH - libssh-0.6 version for Authenticaion Bypass
+SMB - EternalBlue Vulnerable Devices
+ADB - Android Debugging Bridge
+Telnet - No Authentication enabled
+VNC - No Authentication enabled
+FTP - No Authentication enabled.
+Cameras - Open Cameras (no Authentication)
+    Yamcam
+    WebcamXP/7
+    Android IP Camera Servers
+    Security DVRs
+
 ```
+* No autoexploit.. so don't ask..
+
 # Requirements
 
 Python3 
 
-Linux/Ubuntu etc.
+Linux/Ubuntu/iSh etc.
 ```
 $ apt install python3
 ```
