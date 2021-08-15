@@ -21,7 +21,8 @@ Cameras - Open Cameras (no Authentication)
     Security DVRs
 
 ```
-* No autoexploit.. so don't ask..
+* PLEASE do NOT start exploiting or gaining access to unauthorized devices. 
+It IS against the law you noobs. 
 
 # Requirements
 
