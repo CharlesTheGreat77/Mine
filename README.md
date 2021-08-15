@@ -61,6 +61,6 @@ output: 123.43.29.27:8080
 
 Format: <IP Address>
 ```
-cat targets.txt | awk '{print $1}'
+cat targets.txt | tr ':' ' ' | awk '{print $1}'
 ```
 output: 123.32.38.182
