@@ -48,6 +48,7 @@ $ python3 mine.py
 
 # Screenshot
 
+![Image description](https://github.com/.png)
 
 # Output
 Results are saved as targets.txt
