@@ -46,6 +46,9 @@ $ pip3 install -r requirements.txt
 $ python3 mine.py
 ```
 
+# Screenshot
+
+
 # Output
 Results are saved as targets.txt
 
